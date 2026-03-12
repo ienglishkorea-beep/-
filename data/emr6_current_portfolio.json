@@ -1,59 +1,59 @@
 {
-  "as_of_date": "2026-03-11",
+  "as_of_date": "2026-03-12",
   "positions": [
-    {
-      "ticker": "ZIM",
-      "name": "ZIM",
-      "rank": 1,
-      "score": 0.7666,
-      "target_weight": 0.088457,
-      "source_etfs": "SEA",
-      "close": 28.07
-    },
-    {
-      "ticker": "MU",
-      "name": "MU",
-      "rank": 2,
-      "score": 0.728,
-      "target_weight": 0.125382,
-      "source_etfs": "SMH",
-      "close": 418.69
-    },
     {
       "ticker": "OXY",
       "name": "OXY",
-      "rank": 3,
-      "score": 0.7008,
-      "target_weight": 0.186537,
+      "rank": 1,
+      "score": 0.9594,
+      "target_weight": 0.131904,
       "source_etfs": "XOP",
-      "close": 55.58
+      "close": 58.41
+    },
+    {
+      "ticker": "ZIM",
+      "name": "ZIM",
+      "rank": 2,
+      "score": 0.9038,
+      "target_weight": 0.064531,
+      "source_etfs": "SEA",
+      "close": 27.2
     },
     {
       "ticker": "APA",
       "name": "APA",
-      "rank": 4,
-      "score": 0.6194,
-      "target_weight": 0.182846,
+      "rank": 3,
+      "score": 0.7764,
+      "target_weight": 0.136682,
       "source_etfs": "XOP",
-      "close": 32.97
+      "close": 33.61
     },
     {
-      "ticker": "HWM",
-      "name": "HWM",
+      "ticker": "EOG",
+      "name": "EOG",
+      "rank": 4,
+      "score": 0.7173,
+      "target_weight": 0.229332,
+      "source_etfs": "XOP",
+      "close": 133.04
+    },
+    {
+      "ticker": "COP",
+      "name": "COP",
+      "rank": 5,
+      "score": 0.6992,
+      "target_weight": 0.225178,
+      "source_etfs": "XOP",
+      "close": 120.26
+    },
+    {
+      "ticker": "DVN",
+      "name": "DVN",
       "rank": 6,
-      "score": 0.556,
-      "target_weight": 0.269023,
-      "source_etfs": "ITA",
-      "close": 251.65
-    },
-    {
-      "ticker": "AMAT",
-      "name": "AMAT",
-      "rank": 11,
-      "score": 0.508,
-      "target_weight": 0.147756,
-      "source_etfs": "SMH",
-      "close": 351.07
+      "score": 0.6269,
+      "target_weight": 0.212373,
+      "source_etfs": "XOP",
+      "close": 46.19
     }
   ]
 }
