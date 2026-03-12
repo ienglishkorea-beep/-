@@ -1,0 +1,136 @@
+etf,ticker,name,weight_pct,source
+SMH,NVDA,NVIDIA Corporation,17.7,master
+SMH,TSM,Taiwan Semiconductor Manufacturing,11.4,master
+SMH,AVGO,Broadcom Inc.,6.9,master
+SMH,ASML,ASML Holding NV,5.7,master
+SMH,LRCX,Lam Research,5.2,master
+SMH,AMAT,Applied Materials,5.2,master
+SMH,KLAC,KLA Corporation,4.8,master
+SMH,ADI,Analog Devices,4.7,master
+SMH,MU,Micron Technology,4.6,master
+SMH,INTC,Intel Corporation,4.5,master
+SMH,AMD,Advanced Micro Devices,3.8,master
+SMH,ON,ON Semiconductor,3.2,master
+SMH,MRVL,Marvell Technology,2.8,master
+SMH,MPWR,Monolithic Power Systems,2.1,master
+SMH,SWKS,Skyworks Solutions,1.9,master
+SMH,QRVO,Qorvo,1.8,master
+SMH,ENTG,Entegris,1.7,master
+SMH,COHR,Coherent Corp,1.6,master
+SMH,TER,Teradyne,1.6,master
+SMH,LSCC,Lattice Semiconductor,1.5,master
+SOXX,NVDA,NVIDIA Corporation,9.4,master
+SOXX,AVGO,Broadcom Inc.,8.8,master
+SOXX,TSM,Taiwan Semiconductor Manufacturing,8.3,master
+SOXX,ASML,ASML Holding NV,7.1,master
+SOXX,AMD,Advanced Micro Devices,6.5,master
+SOXX,AMAT,Applied Materials,5.8,master
+SOXX,KLAC,KLA Corporation,5.1,master
+SOXX,MU,Micron Technology,4.9,master
+SOXX,LRCX,Lam Research,4.6,master
+SOXX,ADI,Analog Devices,4.1,master
+SOXX,INTC,Intel Corporation,3.7,master
+SOXX,ON,ON Semiconductor,2.9,master
+SOXX,MRVL,Marvell Technology,2.6,master
+SOXX,MPWR,Monolithic Power Systems,2.2,master
+SOXX,SWKS,Skyworks Solutions,2.1,master
+IGV,MSFT,Microsoft Corporation,9.2,master
+IGV,ORCL,Oracle Corporation,7.3,master
+IGV,CRM,Salesforce Inc.,7.1,master
+IGV,ADBE,Adobe Inc.,6.4,master
+IGV,INTU,Intuit Inc.,5.8,master
+IGV,NOW,ServiceNow Inc.,5.6,master
+IGV,PANW,Palo Alto Networks,5.2,master
+IGV,CRWD,CrowdStrike Holdings,4.9,master
+IGV,PLTR,Palantir Technologies,4.6,master
+IGV,ZS,Zscaler Inc.,3.8,master
+IGV,DDOG,Datadog Inc.,3.6,master
+IGV,SNOW,Snowflake Inc.,3.5,master
+IGV,NET,Cloudflare Inc.,3.2,master
+IGV,OKTA,Okta Inc.,2.7,master
+IGV,APP,AppLovin Corp,2.5,master
+XLI,GE,GE Aerospace,6.6,master
+XLI,CAT,Caterpillar Inc.,6.4,master
+XLI,RTX,RTX Corporation,5.8,master
+XLI,UNP,Union Pacific,4.9,master
+XLI,DE,Deere & Company,4.6,master
+XLI,ETN,Eaton Corporation,4.4,master
+XLI,PH,Parker Hannifin,4.3,master
+XLI,HON,Honeywell International,4.2,master
+XLI,GD,General Dynamics,3.9,master
+XLI,LMT,Lockheed Martin,3.8,master
+XLI,NOC,Northrop Grumman,3.7,master
+XLI,ITW,Illinois Tool Works,3.3,master
+XLI,TT,Trane Technologies,3.1,master
+XLI,CSX,CSX Corporation,2.8,master
+XLI,NSC,Norfolk Southern,2.7,master
+XOP,EOG,EOG Resources,6.5,master
+XOP,APA,APA Corporation,5.4,master
+XOP,DVN,Devon Energy,5.1,master
+XOP,FANG,Diamondback Energy,4.9,master
+XOP,MRO,Marathon Oil,4.6,master
+XOP,OXY,Occidental Petroleum,4.3,master
+XOP,COP,ConocoPhillips,4.2,master
+XOP,HES,Hess Corporation,3.9,master
+XOP,CTRA,Coterra Energy,3.5,master
+XOP,XOM,Exxon Mobil,3.2,master
+XOP,CVX,Chevron Corporation,3.1,master
+VDE,XOM,Exxon Mobil Corporation,23.4,master
+VDE,CVX,Chevron Corporation,18.1,master
+VDE,COP,ConocoPhillips,6.2,master
+VDE,EOG,EOG Resources,5.8,master
+VDE,SLB,Schlumberger,5.2,master
+VDE,PXD,Pioneer Natural Resources,4.6,master
+VDE,PSX,Phillips 66,4.3,master
+VDE,MPC,Marathon Petroleum,4.1,master
+VDE,KMI,Kinder Morgan,3.8,master
+VDE,WMB,Williams Companies,3.5,master
+ITA,LMT,Lockheed Martin,22.1,master
+ITA,RTX,RTX Corporation,19.8,master
+ITA,NOC,Northrop Grumman,15.7,master
+ITA,GD,General Dynamics,10.9,master
+ITA,BA,Boeing,8.6,master
+ITA,LHX,L3Harris Technologies,7.2,master
+ITA,HWM,Howmet Aerospace,5.1,master
+ITA,TDG,TransDigm Group,4.7,master
+ITA,HEI,Heico Corporation,3.6,master
+XLU,NEE,NextEra Energy,13.2,master
+XLU,SO,Southern Company,7.4,master
+XLU,DUK,Duke Energy,7.1,master
+XLU,D, Dominion Energy,5.8,master
+XLU,AEP,American Electric Power,5.5,master
+XLU,SRE,Sempra Energy,5.2,master
+XLU,EXC,Exelon Corporation,4.8,master
+XLU,PEG,Public Service Enterprise Group,4.2,master
+XLU,XEL,Xcel Energy,4.1,master
+XLU,ED,Consolidated Edison,3.7,master
+SCHD,HD,Home Depot,4.5,master
+SCHD,AVGO,Broadcom Inc.,4.3,master
+SCHD,PEP,PepsiCo,4.1,master
+SCHD,KO,Coca Cola,4.0,master
+SCHD,TXN,Texas Instruments,3.8,master
+SCHD,MRK,Merck & Co,3.7,master
+SCHD,PFE,Pfizer Inc.,3.5,master
+SCHD,CSCO,Cisco Systems,3.4,master
+SCHD,VZ,Verizon Communications,3.2,master
+SCHD,IBM,IBM Corporation,3.1,master
+EWT,TSM,Taiwan Semiconductor Manufacturing,23.2,master
+EWT,MEDIATEK,MediaTek Inc.,7.8,master
+EWT,HONHAI,Foxconn,6.4,master
+EWT,DELTA,Delta Electronics,5.6,master
+EWT,QUANTA,Quanta Computer,4.8,master
+SEA,ZIM,ZIM Integrated Shipping,5.4,master
+SEA,MAERSK,AP Moller Maersk,4.8,master
+SEA,COSCO,COSCO Shipping,4.5,master
+SEA,HMM,HMM Co.,4.1,master
+SEA,EVERGREEN,Evergreen Marine,3.9,master
+ICLN,ENPH,Enphase Energy,6.5,master
+ICLN,FSLR,First Solar,6.1,master
+ICLN,VWS,Vestas Wind Systems,5.7,master
+ICLN,SEDG,SolarEdge Technologies,5.3,master
+ICLN,PLUG,Plug Power,4.9,master
+XLI,GEV,GE Vernova,3.5,master
+XLI,FAST,Fastenal Company,2.9,master
+XLI,ROK,Rockwell Automation,2.6,master
+XLI,IR,Ingersoll Rand,2.5,master
+XLI,PCAR,Paccar Inc.,2.4,master
