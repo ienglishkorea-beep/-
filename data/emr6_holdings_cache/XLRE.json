@@ -1,0 +1,67 @@
+{
+  "etf": "XLRE",
+  "source": "yfinance",
+  "saved_at_utc": "2026-03-13T00:28:43Z",
+  "holdings": [
+    {
+      "etf": "XLRE",
+      "ticker": "WELL",
+      "name": "Welltower Inc",
+      "weight_pct": 0.1030356
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "PLD",
+      "name": "Prologis Inc",
+      "weight_pct": 0.0959893
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "EQIX",
+      "name": "Equinix Inc",
+      "weight_pct": 0.0693383
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "AMT",
+      "name": "American Tower Corp",
+      "weight_pct": 0.0651063
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "O",
+      "name": "Realty Income Corp",
+      "weight_pct": 0.0489392
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "SPG",
+      "name": "Simon Property Group Inc",
+      "weight_pct": 0.0482391
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "weight_pct": 0.0474949
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "DLR",
+      "name": "Digital Realty Trust Inc",
+      "weight_pct": 0.0459851
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "VTR",
+      "name": "Ventas Inc",
+      "weight_pct": 0.040896002
+    },
+    {
+      "etf": "XLRE",
+      "ticker": "CCI",
+      "name": "Crown Castle Inc",
+      "weight_pct": 0.0394018
+    }
+  ]
+}

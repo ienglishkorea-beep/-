@@ -5,8 +5,8 @@
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "rank": 1,
-      "score": 0.9594,
-      "target_weight": 0.131904,
+      "score": 0.8557,
+      "target_weight": 0.146425,
       "source_etfs": "XOP",
       "close": 58.41
     },
@@ -14,46 +14,46 @@
       "ticker": "ZIM",
       "name": "ZIM Integrated Shipping",
       "rank": 2,
-      "score": 0.9038,
-      "target_weight": 0.064531,
+      "score": 0.8043,
+      "target_weight": 0.071636,
       "source_etfs": "SEA",
       "close": 27.2
     },
     {
+      "ticker": "VAL",
+      "name": "Valaris Ltd",
+      "rank": 3,
+      "score": 0.8027,
+      "target_weight": 0.125662,
+      "source_etfs": "OIH",
+      "close": 92.8
+    },
+    {
       "ticker": "APA",
       "name": "APA Corporation",
-      "rank": 3,
-      "score": 0.7764,
-      "target_weight": 0.136682,
+      "rank": 4,
+      "score": 0.6955,
+      "target_weight": 0.151729,
       "source_etfs": "XOP",
       "close": 33.61
     },
     {
       "ticker": "EOG",
       "name": "EOG Resources",
-      "rank": 4,
-      "score": 0.7173,
-      "target_weight": 0.229332,
-      "source_etfs": "XOP",
+      "rank": 9,
+      "score": 0.6472,
+      "target_weight": 0.25458,
+      "source_etfs": "XLE,XOP",
       "close": 133.04
     },
     {
       "ticker": "COP",
       "name": "ConocoPhillips",
-      "rank": 5,
-      "score": 0.6992,
-      "target_weight": 0.225178,
-      "source_etfs": "XOP",
+      "rank": 10,
+      "score": 0.6198,
+      "target_weight": 0.249968,
+      "source_etfs": "XLE,XOP",
       "close": 120.26
-    },
-    {
-      "ticker": "DVN",
-      "name": "Devon Energy",
-      "rank": 6,
-      "score": 0.6269,
-      "target_weight": 0.212373,
-      "source_etfs": "XOP",
-      "close": 46.19
     }
   ]
 }

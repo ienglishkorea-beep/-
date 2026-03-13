@@ -1,0 +1,67 @@
+{
+  "etf": "GRID",
+  "source": "yfinance",
+  "saved_at_utc": "2026-03-13T00:28:43Z",
+  "holdings": [
+    {
+      "etf": "GRID",
+      "ticker": "ABBN-SW",
+      "name": "ABB Ltd",
+      "weight_pct": 0.086980104
+    },
+    {
+      "etf": "GRID",
+      "ticker": "NG-L",
+      "name": "National Grid PLC",
+      "weight_pct": 0.083847106
+    },
+    {
+      "etf": "GRID",
+      "ticker": "JCI",
+      "name": "Johnson Controls International PLC Registered Shares",
+      "weight_pct": 0.083801
+    },
+    {
+      "etf": "GRID",
+      "ticker": "SU-PA",
+      "name": "Schneider Electric SE",
+      "weight_pct": 0.0818351
+    },
+    {
+      "etf": "GRID",
+      "ticker": "ETN",
+      "name": "Eaton Corp PLC",
+      "weight_pct": 0.073766395
+    },
+    {
+      "etf": "GRID",
+      "ticker": "EOAN-DE",
+      "name": "E.ON SE",
+      "weight_pct": 0.044608403
+    },
+    {
+      "etf": "GRID",
+      "ticker": "PWR",
+      "name": "Quanta Services Inc",
+      "weight_pct": 0.0413955
+    },
+    {
+      "etf": "GRID",
+      "ticker": "PRY-MI",
+      "name": "Prysmian SpA",
+      "weight_pct": 0.0401932
+    },
+    {
+      "etf": "GRID",
+      "ticker": "HUBB",
+      "name": "Hubbell Inc",
+      "weight_pct": 0.028292602
+    },
+    {
+      "etf": "GRID",
+      "ticker": "NVT",
+      "name": "nVent Electric PLC",
+      "weight_pct": 0.0197191
+    }
+  ]
+}

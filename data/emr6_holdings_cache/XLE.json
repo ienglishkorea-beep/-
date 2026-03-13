@@ -1,0 +1,67 @@
+{
+  "etf": "XLE",
+  "source": "yfinance",
+  "saved_at_utc": "2026-03-13T00:28:43Z",
+  "holdings": [
+    {
+      "etf": "XLE",
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp",
+      "weight_pct": 0.24052441
+    },
+    {
+      "etf": "XLE",
+      "ticker": "CVX",
+      "name": "Chevron Corp",
+      "weight_pct": 0.17270651
+    },
+    {
+      "etf": "XLE",
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "weight_pct": 0.0685018
+    },
+    {
+      "etf": "XLE",
+      "ticker": "WMB",
+      "name": "Williams Companies Inc",
+      "weight_pct": 0.0455585
+    },
+    {
+      "etf": "XLE",
+      "ticker": "SLB",
+      "name": "SLB Ltd",
+      "weight_pct": 0.043773998
+    },
+    {
+      "etf": "XLE",
+      "ticker": "EOG",
+      "name": "EOG Resources Inc",
+      "weight_pct": 0.038424898
+    },
+    {
+      "etf": "XLE",
+      "ticker": "KMI",
+      "name": "Kinder Morgan Inc Class P",
+      "weight_pct": 0.0371748
+    },
+    {
+      "etf": "XLE",
+      "ticker": "BKR",
+      "name": "Baker Hughes Co Class A",
+      "weight_pct": 0.0367534
+    },
+    {
+      "etf": "XLE",
+      "ticker": "VLO",
+      "name": "Valero Energy Corp",
+      "weight_pct": 0.035623502
+    },
+    {
+      "etf": "XLE",
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "weight_pct": 0.0354896
+    }
+  ]
+}

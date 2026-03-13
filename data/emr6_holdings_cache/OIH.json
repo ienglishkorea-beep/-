@@ -1,0 +1,67 @@
+{
+  "etf": "OIH",
+  "source": "yfinance",
+  "saved_at_utc": "2026-03-13T00:28:43Z",
+  "holdings": [
+    {
+      "etf": "OIH",
+      "ticker": "SLB",
+      "name": "SLB Ltd",
+      "weight_pct": 0.19656111
+    },
+    {
+      "etf": "OIH",
+      "ticker": "BKR",
+      "name": "Baker Hughes Co Class A",
+      "weight_pct": 0.1284846
+    },
+    {
+      "etf": "OIH",
+      "ticker": "HAL",
+      "name": "Halliburton Co",
+      "weight_pct": 0.0716464
+    },
+    {
+      "etf": "OIH",
+      "ticker": "FTI",
+      "name": "TechnipFMC PLC",
+      "weight_pct": 0.0555012
+    },
+    {
+      "etf": "OIH",
+      "ticker": "RIG",
+      "name": "Transocean Ltd",
+      "weight_pct": 0.051835798
+    },
+    {
+      "etf": "OIH",
+      "ticker": "TS",
+      "name": "Tenaris SA ADR",
+      "weight_pct": 0.051009104
+    },
+    {
+      "etf": "OIH",
+      "ticker": "NE",
+      "name": "Noble Corp PLC Class A",
+      "weight_pct": 0.049529802
+    },
+    {
+      "etf": "OIH",
+      "ticker": "WFRD",
+      "name": "Weatherford International PLC Ordinary Shares - New",
+      "weight_pct": 0.0446136
+    },
+    {
+      "etf": "OIH",
+      "ticker": "VAL",
+      "name": "Valaris Ltd",
+      "weight_pct": 0.0421836
+    },
+    {
+      "etf": "OIH",
+      "ticker": "NOV",
+      "name": "NOV Inc",
+      "weight_pct": 0.0421335
+    }
+  ]
+}
