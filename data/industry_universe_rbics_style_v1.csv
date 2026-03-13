@@ -236,8 +236,8 @@ utilities_power,AEP,American Electric Power
 utilities_power,SRE,Sempra
 utilities_power,XEL,Xcel Energy
 utilities_power,ETR,Entergy
-utilities_power,CEG,Constellation Energy
-utilities_power,VST,Vistra
+utilities_power,EXC,Exelon
+utilities_power,D,Dominion Energy
 utilities_power,PCG,PG&E
 reits_infra_real_assets,PLD,Prologis
 reits_infra_real_assets,AMT,American Tower
