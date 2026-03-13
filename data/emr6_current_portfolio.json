@@ -1,71 +1,60 @@
 {
-  "as_of_date": "2026-03-12",
+  "as_of_date": "2026-03-13",
   "positions": [
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7705,
+      "industry_score": 0.7517,
       "ticker": "OXY",
       "name": "Occidental Petroleum",
       "industry_member_rank": 1,
-      "score": 0.723,
-      "target_weight": 0.145123,
-      "close": 58.41
+      "score": 0.7025,
+      "target_weight": 0.169479,
+      "close": 57.88
     },
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7705,
+      "industry_score": 0.7517,
       "ticker": "EOG",
       "name": "EOG Resources",
       "industry_member_rank": 2,
-      "score": 0.5596,
-      "target_weight": 0.252317,
-      "close": 133.04
+      "score": 0.4936,
+      "target_weight": 0.279675,
+      "close": 133.6
     },
     {
       "industry": "energy_integrated_ep_refining",
       "industry_rank": 1,
-      "industry_score": 0.7705,
+      "industry_score": 0.7517,
       "ticker": "COP",
       "name": "ConocoPhillips",
       "industry_member_rank": 3,
-      "score": 0.5205,
-      "target_weight": 0.247746,
-      "close": 120.26
+      "score": 0.4816,
+      "target_weight": 0.272152,
+      "close": 121.89
+    },
+    {
+      "industry": "internet_commerce_platforms",
+      "industry_rank": 2,
+      "industry_score": 0.7388,
+      "ticker": "EBAY",
+      "name": "eBay",
+      "industry_member_rank": 1,
+      "score": 0.4196,
+      "target_weight": 0.200747,
+      "close": 91.34
     },
     {
       "industry": "shipping_marine",
-      "industry_rank": 2,
-      "industry_score": 0.7502,
+      "industry_rank": 3,
+      "industry_score": 0.7362,
       "ticker": "ZIM",
       "name": "ZIM Integrated Shipping",
       "industry_member_rank": 1,
-      "score": 0.6884,
-      "target_weight": 0.070999,
-      "close": 27.2
-    },
-    {
-      "industry": "shipping_marine",
-      "industry_rank": 2,
-      "industry_score": 0.7502,
-      "ticker": "INSW",
-      "name": "International Seaways",
-      "industry_member_rank": 2,
-      "score": 0.5347,
-      "target_weight": 0.149566,
-      "close": 66.74
-    },
-    {
-      "industry": "cloud_network_infra",
-      "industry_rank": 3,
-      "industry_score": 0.7289,
-      "ticker": "VRT",
-      "name": "Vertiv",
-      "industry_member_rank": 1,
-      "score": 0.7374,
-      "target_weight": 0.134249,
-      "close": 265.38
+      "score": 0.6731,
+      "target_weight": 0.077946,
+      "close": 26.99
     }
   ]
 }

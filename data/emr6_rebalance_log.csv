@@ -51,3 +51,10 @@
 2026-03-12,IN,ZIM,ZIM Integrated Shipping,,,,0.070999,shipping_marine,2.0,0.7502090224576521,0.6884
 2026-03-12,IN,INSW,International Seaways,,,,0.149566,shipping_marine,2.0,0.7502090224576521,0.5347
 2026-03-12,IN,VRT,Vertiv,,,,0.134249,cloud_network_infra,3.0,0.7288621288068847,0.7374
+2026-03-13,OUT,INSW,International Seaways,,,,0.149566,shipping_marine,3.0,0.7361555500687809,0.5347
+2026-03-13,OUT,VRT,Vertiv,,,,0.134249,cloud_network_infra,6.0,0.6280631190038495,0.7374
+2026-03-13,IN,EBAY,eBay,,,,0.200747,internet_commerce_platforms,2.0,0.7388059549513885,0.4196
+2026-03-13,KEEP,OXY,Occidental Petroleum,,,,0.169479,energy_integrated_ep_refining,1.0,0.7516596252062222,0.7025
+2026-03-13,KEEP,EOG,EOG Resources,,,,0.279675,energy_integrated_ep_refining,1.0,0.7516596252062222,0.4936
+2026-03-13,KEEP,COP,ConocoPhillips,,,,0.272152,energy_integrated_ep_refining,1.0,0.7516596252062222,0.4816
+2026-03-13,KEEP,ZIM,ZIM Integrated Shipping,,,,0.077946,shipping_marine,3.0,0.7361555500687809,0.6731
