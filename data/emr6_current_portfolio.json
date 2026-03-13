@@ -3,7 +3,7 @@
   "positions": [
     {
       "ticker": "OXY",
-      "name": "OXY",
+      "name": "Occidental Petroleum",
       "rank": 1,
       "score": 0.9594,
       "target_weight": 0.131904,
@@ -12,7 +12,7 @@
     },
     {
       "ticker": "ZIM",
-      "name": "ZIM",
+      "name": "ZIM Integrated Shipping",
       "rank": 2,
       "score": 0.9038,
       "target_weight": 0.064531,
@@ -21,7 +21,7 @@
     },
     {
       "ticker": "APA",
-      "name": "APA",
+      "name": "APA Corporation",
       "rank": 3,
       "score": 0.7764,
       "target_weight": 0.136682,
@@ -30,7 +30,7 @@
     },
     {
       "ticker": "EOG",
-      "name": "EOG",
+      "name": "EOG Resources",
       "rank": 4,
       "score": 0.7173,
       "target_weight": 0.229332,
@@ -39,7 +39,7 @@
     },
     {
       "ticker": "COP",
-      "name": "COP",
+      "name": "ConocoPhillips",
       "rank": 5,
       "score": 0.6992,
       "target_weight": 0.225178,
@@ -48,7 +48,7 @@
     },
     {
       "ticker": "DVN",
-      "name": "DVN",
+      "name": "Devon Energy",
       "rank": 6,
       "score": 0.6269,
       "target_weight": 0.212373,
