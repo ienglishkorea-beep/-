@@ -1,0 +1,251 @@
+industry,ticker,name
+semiconductor_core,NVDA,NVIDIA
+semiconductor_core,AVGO,Broadcom
+semiconductor_core,AMD,Advanced Micro Devices
+semiconductor_core,QCOM,Qualcomm
+semiconductor_core,MU,Micron Technology
+semiconductor_core,TXN,Texas Instruments
+semiconductor_core,ADI,Analog Devices
+semiconductor_core,MRVL,Marvell Technology
+semiconductor_core,ON,ON Semiconductor
+semiconductor_core,MCHP,Microchip Technology
+semicap_eda_ip,ASML,ASML Holding
+semicap_eda_ip,AMAT,Applied Materials
+semicap_eda_ip,LRCX,Lam Research
+semicap_eda_ip,KLAC,KLA
+semicap_eda_ip,CDNS,Cadence Design Systems
+semicap_eda_ip,SNPS,Synopsys
+semicap_eda_ip,ANSS,Ansys
+semicap_eda_ip,TER,Teradyne
+semicap_eda_ip,ONTO,Onto Innovation
+semicap_eda_ip,FORM,FormFactor
+cybersecurity,PANW,Palo Alto Networks
+cybersecurity,CRWD,CrowdStrike
+cybersecurity,ZS,Zscaler
+cybersecurity,FTNT,Fortinet
+cybersecurity,CHKP,Check Point Software
+cybersecurity,OKTA,Okta
+cybersecurity,S,SentinelOne
+cybersecurity,VRNS,Varonis Systems
+cybersecurity,TENB,Tenable
+cybersecurity,GEN,Gen Digital
+cloud_network_infra,ANET,Arista Networks
+cloud_network_infra,CSCO,Cisco Systems
+cloud_network_infra,NET,Cloudflare
+cloud_network_infra,FFIV,F5
+cloud_network_infra,JNPR,Juniper Networks
+cloud_network_infra,VRT,Vertiv
+cloud_network_infra,APH,Amphenol
+cloud_network_infra,GLW,Corning
+cloud_network_infra,CIEN,Ciena
+cloud_network_infra,SMCI,Super Micro Computer
+enterprise_software,MSFT,Microsoft
+enterprise_software,ORCL,Oracle
+enterprise_software,CRM,Salesforce
+enterprise_software,NOW,ServiceNow
+enterprise_software,INTU,Intuit
+enterprise_software,ADBE,Adobe
+enterprise_software,ADSK,Autodesk
+enterprise_software,HUBS,HubSpot
+enterprise_software,DDOG,Datadog
+enterprise_software,TEAM,Atlassian
+digital_ads_platforms,GOOGL,Alphabet
+digital_ads_platforms,META,Meta Platforms
+digital_ads_platforms,TTD,Trade Desk
+digital_ads_platforms,PINS,Pinterest
+digital_ads_platforms,SNAP,Snap
+digital_ads_platforms,APP,AppLovin
+digital_ads_platforms,RDDT,Reddit
+digital_ads_platforms,ROKU,Roku
+digital_ads_platforms,SPOT,Spotify
+digital_ads_platforms,MGNI,Magnite
+internet_commerce_platforms,AMZN,Amazon
+internet_commerce_platforms,MELI,MercadoLibre
+internet_commerce_platforms,EBAY,eBay
+internet_commerce_platforms,ETSY,Etsy
+internet_commerce_platforms,SE,Sea
+internet_commerce_platforms,PDD,PDD Holdings
+internet_commerce_platforms,BABA,Alibaba Group
+internet_commerce_platforms,CPNG,Coupang
+internet_commerce_platforms,SHOP,Shopify
+internet_commerce_platforms,DASH,DoorDash
+payments_market_infra,V,Visa
+payments_market_infra,MA,Mastercard
+payments_market_infra,AXP,American Express
+payments_market_infra,FI,Fiserv
+payments_market_infra,FIS,Fidelity National Information Services
+payments_market_infra,GPN,Global Payments
+payments_market_infra,SPGI,S&P Global
+payments_market_infra,MCO,Moody's
+payments_market_infra,CME,CME Group
+payments_market_infra,ICE,Intercontinental Exchange
+banks,JPM,JPMorgan Chase
+banks,BAC,Bank of America
+banks,WFC,Wells Fargo
+banks,C,Citigroup
+banks,GS,Goldman Sachs
+banks,MS,Morgan Stanley
+banks,PNC,PNC Financial Services
+banks,USB,U.S. Bancorp
+banks,TFC,Truist Financial
+banks,BK,Bank of New York Mellon
+insurance_brokers_pnc,PGR,Progressive
+insurance_brokers_pnc,CB,Chubb
+insurance_brokers_pnc,AJG,Arthur J. Gallagher
+insurance_brokers_pnc,MMC,Marsh & McLennan
+insurance_brokers_pnc,AON,Aon
+insurance_brokers_pnc,BRO,Brown & Brown
+insurance_brokers_pnc,TRV,Travelers
+insurance_brokers_pnc,ALL,Allstate
+insurance_brokers_pnc,MET,MetLife
+insurance_brokers_pnc,AFL,Aflac
+energy_integrated_ep_refining,XOM,Exxon Mobil
+energy_integrated_ep_refining,CVX,Chevron
+energy_integrated_ep_refining,COP,ConocoPhillips
+energy_integrated_ep_refining,EOG,EOG Resources
+energy_integrated_ep_refining,OXY,Occidental Petroleum
+energy_integrated_ep_refining,DVN,Devon Energy
+energy_integrated_ep_refining,FANG,Diamondback Energy
+energy_integrated_ep_refining,HES,Hess
+energy_integrated_ep_refining,MPC,Marathon Petroleum
+energy_integrated_ep_refining,PSX,Phillips 66
+energy_services_equipment,SLB,Schlumberger
+energy_services_equipment,HAL,Halliburton
+energy_services_equipment,BKR,Baker Hughes
+energy_services_equipment,FTI,TechnipFMC
+energy_services_equipment,NOV,NOV
+energy_services_equipment,CHX,ChampionX
+energy_services_equipment,VAL,Valaris
+energy_services_equipment,NE,Noble Corporation
+energy_services_equipment,RIG,Transocean
+energy_services_equipment,HP,Helmerich & Payne
+materials_chemicals_metals,LIN,Linde
+materials_chemicals_metals,APD,Air Products and Chemicals
+materials_chemicals_metals,SHW,Sherwin-Williams
+materials_chemicals_metals,ECL,Ecolab
+materials_chemicals_metals,NEM,Newmont
+materials_chemicals_metals,FCX,Freeport-McMoRan
+materials_chemicals_metals,NUE,Nucor
+materials_chemicals_metals,MLM,Martin Marietta Materials
+materials_chemicals_metals,VMC,Vulcan Materials
+materials_chemicals_metals,CF,CF Industries
+industrial_machinery_automation,ETN,Eaton
+industrial_machinery_automation,PH,Parker-Hannifin
+industrial_machinery_automation,EMR,Emerson Electric
+industrial_machinery_automation,ROK,Rockwell Automation
+industrial_machinery_automation,IR,Ingersoll Rand
+industrial_machinery_automation,DOV,Dover
+industrial_machinery_automation,ITW,Illinois Tool Works
+industrial_machinery_automation,TT,Trane Technologies
+industrial_machinery_automation,HON,Honeywell
+industrial_machinery_automation,XYL,Xylem
+electrical_power_grid,GEV,GE Vernova
+electrical_power_grid,HUBB,Hubbell
+electrical_power_grid,NVT,nVent Electric
+electrical_power_grid,PWR,Quanta Services
+electrical_power_grid,VST,Vistra
+electrical_power_grid,CEG,Constellation Energy
+electrical_power_grid,NRG,NRG Energy
+electrical_power_grid,AES,AES
+electrical_power_grid,PRYMY,Prysmian
+electrical_power_grid,BWXT,BWX Technologies
+aerospace_defense,RTX,RTX
+aerospace_defense,LMT,Lockheed Martin
+aerospace_defense,NOC,Northrop Grumman
+aerospace_defense,GD,General Dynamics
+aerospace_defense,LHX,L3Harris Technologies
+aerospace_defense,TDG,TransDigm Group
+aerospace_defense,HWM,Howmet Aerospace
+aerospace_defense,HEI,HEICO
+aerospace_defense,HII,Huntington Ingalls Industries
+aerospace_defense,KTOS,Kratos Defense & Security Solutions
+transport_logistics_rail,UPS,UPS
+transport_logistics_rail,FDX,FedEx
+transport_logistics_rail,JBHT,J.B. Hunt Transport Services
+transport_logistics_rail,ODFL,Old Dominion Freight Line
+transport_logistics_rail,XPO,XPO
+transport_logistics_rail,CHRW,C.H. Robinson Worldwide
+transport_logistics_rail,LSTR,Landstar System
+transport_logistics_rail,UNP,Union Pacific
+transport_logistics_rail,CSX,CSX
+transport_logistics_rail,NSC,Norfolk Southern
+shipping_marine,ZIM,ZIM Integrated Shipping
+shipping_marine,MATX,Matson
+shipping_marine,SBLK,Star Bulk Carriers
+shipping_marine,DAC,Danaos
+shipping_marine,GOGL,Golden Ocean Group
+shipping_marine,GNK,Genco Shipping & Trading
+shipping_marine,EGLE,Eagle Bulk Shipping
+shipping_marine,CMRE,Costamare
+shipping_marine,ASC,Ardmore Shipping
+shipping_marine,INSW,International Seaways
+medical_devices_tools,ISRG,Intuitive Surgical
+medical_devices_tools,ABT,Abbott Laboratories
+medical_devices_tools,BSX,Boston Scientific
+medical_devices_tools,SYK,Stryker
+medical_devices_tools,MDT,Medtronic
+medical_devices_tools,EW,Edwards Lifesciences
+medical_devices_tools,HOLX,Hologic
+medical_devices_tools,DXCM,DexCom
+medical_devices_tools,PODD,Insulet
+medical_devices_tools,RMD,ResMed
+life_science_tools_diagnostics,TMO,Thermo Fisher Scientific
+life_science_tools_diagnostics,DHR,Danaher
+life_science_tools_diagnostics,A,Agilent Technologies
+life_science_tools_diagnostics,IQV,IQVIA
+life_science_tools_diagnostics,MTD,Mettler-Toledo
+life_science_tools_diagnostics,WAT,Waters
+life_science_tools_diagnostics,BRKR,Bruker
+life_science_tools_diagnostics,TECH,Bio-Techne
+life_science_tools_diagnostics,RVTY,Revvity
+life_science_tools_diagnostics,BIO,Bio-Rad Laboratories
+pharma_biotech,LLY,Eli Lilly
+pharma_biotech,JNJ,Johnson & Johnson
+pharma_biotech,MRK,Merck
+pharma_biotech,ABBV,AbbVie
+pharma_biotech,AMGN,Amgen
+pharma_biotech,VRTX,Vertex Pharmaceuticals
+pharma_biotech,REGN,Regeneron Pharmaceuticals
+pharma_biotech,GILD,Gilead Sciences
+pharma_biotech,BMY,Bristol Myers Squibb
+pharma_biotech,BIIB,Biogen
+consumer_retail_offprice_auto,COST,Costco Wholesale
+consumer_retail_offprice_auto,WMT,Walmart
+consumer_retail_offprice_auto,TJX,TJX Companies
+consumer_retail_offprice_auto,ROST,Ross Stores
+consumer_retail_offprice_auto,HD,Home Depot
+consumer_retail_offprice_auto,LOW,Lowe's
+consumer_retail_offprice_auto,ORLY,O'Reilly Automotive
+consumer_retail_offprice_auto,AZO,AutoZone
+consumer_retail_offprice_auto,ULTA,Ulta Beauty
+consumer_retail_offprice_auto,DKS,Dick's Sporting Goods
+consumer_staples_brands,PG,Procter & Gamble
+consumer_staples_brands,KO,Coca-Cola
+consumer_staples_brands,PEP,PepsiCo
+consumer_staples_brands,PM,Philip Morris International
+consumer_staples_brands,MO,Altria Group
+consumer_staples_brands,CL,Colgate-Palmolive
+consumer_staples_brands,KMB,Kimberly-Clark
+consumer_staples_brands,KR,Kroger
+consumer_staples_brands,MDLZ,Mondelez International
+consumer_staples_brands,KHC,Kraft Heinz
+utilities_power,NEE,NextEra Energy
+utilities_power,SO,Southern
+utilities_power,DUK,Duke Energy
+utilities_power,AEP,American Electric Power
+utilities_power,SRE,Sempra
+utilities_power,XEL,Xcel Energy
+utilities_power,ETR,Entergy
+utilities_power,CEG,Constellation Energy
+utilities_power,VST,Vistra
+utilities_power,PCG,PG&E
+reits_infra_real_assets,PLD,Prologis
+reits_infra_real_assets,AMT,American Tower
+reits_infra_real_assets,EQIX,Equinix
+reits_infra_real_assets,WELL,Welltower
+reits_infra_real_assets,PSA,Public Storage
+reits_infra_real_assets,O,Realty Income
+reits_infra_real_assets,DLR,Digital Realty Trust
+reits_infra_real_assets,SPG,Simon Property Group
+reits_infra_real_assets,EXR,Extra Space Storage
+reits_infra_real_assets,CBRE,CBRE Group
